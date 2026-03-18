@@ -2,7 +2,7 @@ import telebot
 import time
 from telebot import types
 
-TOKEN = "8308935041:AAGea3YnCFCIF1k3i1P2WnE8dPRN8VqXy4w"
+TOKEN = "8308935041:AAFs-h4pQHsBvfKPKBa2ae0D4loKoOL4mEA"
 CHANNEL = "@pizzabotinfo"
 SUPPORT_USERNAME = "@maharaga_coder"
 
